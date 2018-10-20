@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>e:/Gabriel/Documents/Visual Studio 2017/Projects/Zombies2018/Zombies2018/Content/SongEffects/zombiee.mp3</SourceFile>
+  <SourceTime>2018-10-19T20:11:28.5750215-03:00</SourceTime>
+  <DestFile>e:/Gabriel/Documents/Visual Studio 2017/Projects/Zombies2018/Zombies2018/Content/bin/Windows/SongEffects/zombiee.xnb</DestFile>
+  <DestTime>2018-10-19T20:17:17.0683314-03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>e:/Gabriel/Documents/Visual Studio 2017/Projects/Zombies2018/Zombies2018/Content/bin/Windows/SongEffects/zombiee.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
